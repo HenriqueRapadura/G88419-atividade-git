@@ -1,0 +1,14 @@
+# G88419-atividade-git
+Aqui está uma sugestão de descrição para a atividade:
+
+---
+
+### G88419 - Atividade sobre GIT
+
+Nesta atividade, iremos nos aprofundar no uso do GIT, uma ferramenta essencial para controle de versão e colaboração em desenvolvimento de software. A equipe será formada por três integrantes e deverá escolher entre as plataformas GitHub ou GitLab para hospedar o projeto. O objetivo principal é criar e organizar um repositório que contenha as seguintes informações:
+
+1. **Instalação do GIT** no Windows e Linux.
+2. **Passo a passo** para hospedar código tanto no GitHub quanto no GitLab.
+3. Um **handbook** com os principais comandos do GIT.
+
+A entrega será feita através de commits no repositório, sendo avaliada a coerência nos títulos dos commits, a distribuição uniforme das contribuições entre os integrantes e a clareza e coerência dos conteúdos.
